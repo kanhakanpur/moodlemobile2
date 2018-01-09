@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.moodle.moodlemobile" version="3.4.0">
-  <name>eVidya BSE App</name>
+  <name>eVidya Learning App</name>
   <description>
-        eVidya BSE app
+        eVidya Learning app
     </description>
   <author href="http://www.evidyapith.com" email="info@evidyapith.com">
         eVidya Admin
