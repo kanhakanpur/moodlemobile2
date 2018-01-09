@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
-  "version": "3.4.0",
-  "description": "The official app for Moodle.",
+  "name": "eVidyamobile",
+  "version": "1.1.0",
+  "description": "eVidya Learning App.",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "eVidya Excellence LLP.",
+    "email": "info@evidyapith.com"
   },
   "repository": {
     "type": "git",
