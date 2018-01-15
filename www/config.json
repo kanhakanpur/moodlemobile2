@@ -1,8 +1,8 @@
 {
-    "app_id" : "com.evidya.evidyamobile",
+    "app_id" : "com.evidya.evidyamobile2",
     "appname": "eVidya Learning App",
     "desktopappname": "Moodle Desktop",
-    "versioncode" : "1011",
+    "versioncode" : "10110",
     "versionname" : "1.1.0",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
